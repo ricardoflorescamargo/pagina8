@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591488686573.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "69353527",
+    "id" : "BC633435",
+    "lastKnownWriteTime" : 1591488940,
+    "last_content_update" : 1591488940632,
+    "path" : "D:/16. CV/pagina7/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "23,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
