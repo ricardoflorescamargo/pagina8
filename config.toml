@@ -2,8 +2,8 @@
 
 # Page settings
 
-baseURL = "http://foodomin.netlify.com"
-languageCode = "en"
+baseURL = "/"
+languageCode = "en-us"
 title = ""
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
