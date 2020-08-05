@@ -27,7 +27,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.profile]
         enable = true
         name = "Ricardo"
-        tagline = "Researcher"
+        tagline = "Físico"
         avatar = "ricardo.png"
 
 
