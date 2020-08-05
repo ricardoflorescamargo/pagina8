@@ -298,15 +298,15 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "//github.com/username"
+        url = "https://github.com/ricardoflorescamargo"
         title = "username"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "//linkedin.com/in/username"
+        url = "https://www.linkedin.com/in/ricardo-flores-camargo/"
         title = "username"
         [[params.social.list]]
         icon = "fab fa-twitter-square"
-        url = "//twitter.com/username"
+        url = "https://twitter.com/RicardoFloresC"
         title = "@username"
 
 
