@@ -51,7 +51,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "#"
-        text = "www.yourwebsite.com"
+        text = "https://objective-heisenberg-273ce9.netlify.app/en/"
 
 
 
@@ -65,11 +65,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "JavaScript/Angular/React/Vue"
+        details = "Python/R/Matlab"
         [[params.skills.list.items]]
-        details = "Python/Ruby/PHP"
-        [[params.skills.list.items]]
-        details = "Node.js/ASP.NET"
+        details = "Fortran/comsol multiphysics"
         [[params.skills.list.items]]
         details = "PostgreSQL/MySQL"
         [[params.skills.list.items]]
