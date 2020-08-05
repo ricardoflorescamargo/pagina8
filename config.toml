@@ -200,14 +200,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Etiam ultricies nisi vel augue."
 
         [[params.experience.list]]
-        title = "Researcher"
+        title = "Becado-Ayudante de investigación"
         dates = "2017 - 2019"
         company = "Universidad Nacional de Ingenieria"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
+        details = "Mi trabajo en la UNI ha estado enfocado principalmente en la implementación de un sistema para la adquisición de imágenes hiperespectrales para reconocer contaminantes de hidrocarburos en la superficie del suelo."
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Adquisición de imagenes, limpieza de datos, pre-procesamient"
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Estudios de diferentes métodos de procesamiento."
 
         [[params.experience.list]]
         title = "Laboratory analyst"
