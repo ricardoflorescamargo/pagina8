@@ -50,8 +50,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         text = "r.flores@pucp.edu.pe"
         [[params.contact.list]]
         icon = "fas fa-globe"
-        url = "#"
-        text = "https://objective-heisenberg-273ce9.netlify.app/en/"
+        url = "https://objective-heisenberg-273ce9.netlify.app/en/"
+        text = "webfive"
 
 
 
